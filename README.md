@@ -132,7 +132,7 @@ screen -S mining
 Run XMRig:
 ```sh
 cd ~/xmrig/build
-./xmrig --config config.json
+./xmrig --config ../config.json
 ```
 Detach the session:
 ```sh
